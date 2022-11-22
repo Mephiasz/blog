@@ -1,0 +1,47 @@
+body {
+    background-image: url("background.jpg");
+  }
+  h1 {
+    color: rgb(61, 0, 141);
+    font-size : 50px ;
+    font-family: 'Exo 2', sans-serif;
+    margin: 5px 50px 5px 100px;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px #080101;
+  }
+  h2 {
+    color: #ce0b80;
+    font-size : 30px ;
+    font-family: 'Exo 2', sans-serif;
+    margin: 15px 50px 5px 100px;
+    border-style: outset;
+    text-shadow: 2px 2px 0px #080101;
+    
+  }
+  .Textbox {
+    color: rgb(10, 177, 46);
+    font-size : 20px ;
+    font-family: 'Exo 2', sans-serif;
+    margin: 15px 50px 5px 100px;
+    text-shadow: 2px 2px 0px #080101;
+    font-weight: bold;
+   }
+  p {
+    color: gray;
+    font-family: 'Exo 2', sans-serif;
+    margin: 15px 50px 5px 100px;
+    text-shadow: 2px 2px 0px #080101;
+  }
+  .topnav {
+    background-color: rgb(37, 37, 37);
+    border-style: groove;   
+    border-color: #616060;
+   
+  }
+
+  footer {
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    margin: 15px 50px 5px 100px;
+    font-size: 13px
+    }
